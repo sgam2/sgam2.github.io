@@ -1,3 +1,17 @@
+html{font-size: 100%;
+line-height: 1.5rem;    
+box-sizing: border-box;
+font-family: Arial, Helvetica, sans-serif;
+}
 p
-{color: rgb(52, 117, 25);
+{color: rgb(52, 117, 25);}
+body{
+   margin: auto;
+   padding: 0%;
+   min-height: 100%;
+   max-width: 100%;
+}
+img, video {
+width: auto;    height: auto;
+    display: block;
 }
